@@ -48,7 +48,8 @@ li {
 }
 
 .social-links a {/* Agrega estilos para los enlaces a redes sociales */
-    display: flex;   
+    display: flex; 
+    max-width: 20px;	
     flex-direction: column;
     text-decoration: none;
     color: #3498db;

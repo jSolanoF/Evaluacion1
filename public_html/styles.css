@@ -9,6 +9,7 @@ header{/* estilo de barra de mi perfil personal*/
 body {
     font-family: Arial, sans-serif;
     text-align: center;
+	border: 10px solid #E0A9DB; /*borde de la paguina*/
 }
 
 .profile-section {
@@ -25,8 +26,8 @@ img { /* Estilos de la imagen */
 }
 
 h2 {/* Estilos del nombre */
-    color: #333;
-    font-size: 24px;
+    color: #028A95;
+    font-size: 30px;
 }
 h3 {/* Estilos del nombre */
     color: #59DE27;
@@ -45,6 +46,7 @@ ul {/* Estilos de la lista de habilidades */
 
 li {
     margin: 5px 0;
+	
 }
 
 .social-links a {/* Agrega estilos para los enlaces a redes sociales */
@@ -54,6 +56,7 @@ li {
     color: #3498db;
     transition: color 0.1s;
     margin: 10px; /* Espacio entre los enlaces */
+
 }
 
 .social-links a:hover {
